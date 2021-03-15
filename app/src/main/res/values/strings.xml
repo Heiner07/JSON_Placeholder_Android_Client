@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">JSON Placeholder Client</string>
+    <string name="name">Name</string>
+    <string name="username">Username</string>
+    <string name="email">Email</string>
+    <string name="editUser">Edit user</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="title_activity_example_tap">ExampleTapActivity</string>
+    <string name="tab_text_1">ToDos</string>
+    <string name="tab_text_2">Albums</string>
+    <string name="hideUserDetails">Hide details</string>
+    <string name="showUserDetails">Show details</string>
+</resources>
